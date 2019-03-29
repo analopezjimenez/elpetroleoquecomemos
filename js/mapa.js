@@ -187,4 +187,4 @@ L.tileLayer('http://{s}.tiles.wmflabs.org/bw-mapnik/{z}/{x}/{y}.png', {
 		popupAnchor:  [0, 0] // point from which the popup should open relative to the iconAnchor
 	});
 
-	L.marker([-30.559482, 22.937506], {icon: naranjaIcon}).addTo(map).bindPopup("<h6><b>NARANJAS</b></br></br>Origen:Sudáfrica</br>Supermercado: DÍA/br>Petróleo: 0,10 Kg</h6>");
+	L.marker([-30.559482, 22.937506], {icon: naranjaIcon}).addTo(map).bindPopup("<h6><b>NARANJAS</b></br></br>Origen:Sudáfrica</br>Supermercado: DÍA/br>Petróleo: 0,54 Kg</h6>");
